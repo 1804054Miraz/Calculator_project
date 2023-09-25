@@ -1,0 +1,15 @@
+Set Up Git:
+git config --global user.name "1804054Miraz"
+git config --global user.email "u1804054@student.cuet.ac.bd"
+
+other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin main 
+git remote add origin main (url)( https://tokenhere@github.com/user_name/repo_name.git)
+
+180454Miraz
+u1804054@student.cuet.ac.bd
+git remote add origin https://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@github.com/1804054Miraz/Calculator
+Token: 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
