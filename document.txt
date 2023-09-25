@@ -13,3 +13,5 @@ git remote add origin main (url)( https://tokenhere@github.com/user_name/repo_na
 u1804054@student.cuet.ac.bd
 git remote add origin https://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@github.com/1804054Miraz/Calculator
 Token: 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
+
+How git bash work to push file(got this link): https://www.geeksforgeeks.org/how-to-push-anything-to-github-using-git-bash/
